@@ -9,8 +9,6 @@ layout: page
 
 Hello, my name is __conghaoyuan__ and I’m a __PHP RD CODER__ with equal parts interest in business, management development, and writing.
 
-I was worked at several company as full-time employeer and __freelancer__ like
- 
 - [meilishuo](http://www.meilishuo.com)
 
 
