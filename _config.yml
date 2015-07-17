@@ -9,27 +9,27 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Naringu
-tagline:             'A Hacker like jekyll theme'
-description:         'oonlab is crafted with <3 by ariestiyansyah.'
-url:                 http://naringu.oonlab.com
+title:               PHPCoder
+tagline:             'a coder desire for freedom'
+description:         'just do it'
+url:                 http://52quchi.com
 baseurl:             /
 paginate:            7
 
 # About/contact
 author:
-  name:              Rizky Ariestiyansyah
-  url:               https://twitter.com/ariestiyansyah
-  email:             ariestiyansyah.rizky@gmail.com
+  name:              conghaoyuan
+  url:               https://www.facebook.com/profile.php?id=100009305848329
+  email:             conghaoyuan@gmail.com
 
 # Custom vars
 version:             2.0
 
 # Social Media
-github:				http://github.com/ariestiyansyah
-twitter:			http://twitter.com/ariestiyansyah
+github:				http://github.com/conghaoyuan
+facebook:			https://www.facebook.com/profile.php?id=100009305848329
 
 # Theme Author (Please don't edit this line cause of MIT LICENSE rules)
 theme:
-creator:			Rizky Ariestiyansyah
-codename:			Naringu
+creator:			PHP Coder
+codename:			conghaoyuan
