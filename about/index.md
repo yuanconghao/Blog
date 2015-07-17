@@ -17,7 +17,7 @@ I was worked at several company as full-time employeer and __freelancer__ like
 I had been a master at this university :
 
 - [Qingdao Agriculture University ](http://www.qau.edu.cn/)
-- [Major in Computer Science and Technology]
+- Major in Computer Science and Technology
 
 ## Ping me!
 
