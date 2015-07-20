@@ -657,7 +657,7 @@ a.pagination-item:hover {
 }
 .search-text {
   width:400px;
-  position:absolute;
+  position:fixed;
   top:100px;
   right:10px;
 }
