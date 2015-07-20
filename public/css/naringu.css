@@ -655,7 +655,10 @@ a.pagination-item:hover {
   margin-right: auto;
   color:blue;
 }
-
+.search-text {
+  width:200px;
+  
+}
 /*
  * Reverse layout
  *
