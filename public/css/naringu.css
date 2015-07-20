@@ -660,6 +660,9 @@ a.pagination-item:hover {
   position:fixed;
   top:100px;
   right:10px;
+  z-index:1000;
+  background:transparent;
+  border:none;
 }
 
 /*
