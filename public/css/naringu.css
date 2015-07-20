@@ -656,10 +656,10 @@ a.pagination-item:hover {
   color:blue;
 }
 .search-text {
-  width:200px;
-  position:absolute;
-  top:300px;
-  right:100px;
+  width:400px;
+  position:relative;
+  top:100px;
+  right:10px;
 }
 
 /*
