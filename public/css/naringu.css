@@ -657,8 +657,11 @@ a.pagination-item:hover {
 }
 .search-text {
   width:200px;
-  float:right;
+  position:absolute;
+  top:300px;
+  right:100px;
 }
+
 /*
  * Reverse layout
  *
