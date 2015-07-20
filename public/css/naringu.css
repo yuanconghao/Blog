@@ -648,7 +648,11 @@ a.pagination-item:hover {
   color: #6DD;
 }
 .theme-6dd .ds-thread {
-  width:600px;
+  max-width: 55rem;
+  padding-left:  1rem;
+  padding-right: 1rem;
+  margin-left:  auto;
+  margin-right: auto;
 }
 
 /*
