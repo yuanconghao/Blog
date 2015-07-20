@@ -647,7 +647,9 @@ a.pagination-item:hover {
 .theme-6dd .related-posts li a:hover {
   color: #6DD;
 }
-
+.theme-6dd .ds-thread {
+  width:600px;
+}
 
 /*
  * Reverse layout
