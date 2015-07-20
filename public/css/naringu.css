@@ -656,8 +656,9 @@ a.pagination-item:hover {
   color:blue;
 }
 .search-text {
-  width:200px;
-  float:right;  
+  width:400px;
+  float:right;
+  padding:0px 0px;
 }
 /*
  * Reverse layout
