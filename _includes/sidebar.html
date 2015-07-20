@@ -29,7 +29,21 @@
     <a class="sidebar-nav-item" href="http://github.com">GitHub project</a>
     <span class="sidebar-nav-item">Version {{ site.version }}</span>
   </nav>
-
+  <div class="search-text">
+    <script>
+  (function() {
+    var cx = '004740995891207018472:yjz3fchgsa8';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+  </div>
   <div class="sidebar-item">
     <p>
       &copy; {{ site.time | date: '%Y' }}. All rights reserved.
