@@ -16,7 +16,9 @@ url:                 http://52quchi.com
 baseurl:             /
 paginate:            7
 suibi:               随笔 
-php:                 php
+php:                 PHP
+Mysql:               Mysql
+suanfa:              算法
 # About/contact
 author:
   name:              conghaoyuan
