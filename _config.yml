@@ -15,7 +15,8 @@ description:         'just do it'
 url:                 http://52quchi.com
 baseurl:             /
 paginate:            7
-
+suibi:               suibi
+php:                 php
 # About/contact
 author:
   name:              conghaoyuan
