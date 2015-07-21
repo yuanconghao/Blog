@@ -15,7 +15,7 @@ description:         'just do it'
 url:                 http://52quchi.com
 baseurl:             /
 paginate:            7
-suibi:               suibi
+suibi:               随笔 
 php:                 php
 # About/contact
 author:
