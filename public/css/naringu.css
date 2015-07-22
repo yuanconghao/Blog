@@ -676,7 +676,6 @@ a.pagination-item:hover {
   right: 10px;
   background: transparent;
   border: none;
-  z-index: 1000;
 }
 /*
  * Reverse layout
