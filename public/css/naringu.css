@@ -659,8 +659,6 @@ a.pagination-item:hover {
   position: fixed;
   top:70;
   right: 10px;
-  color: red;
-  font-size: 20px;
   z-index: 1000;
 }
 .search-text {
