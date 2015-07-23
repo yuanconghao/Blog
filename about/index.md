@@ -5,7 +5,7 @@ author: conghaoyuan
 layout: page
 ---
 
-  <img alt="" src="../images/head.jpeg" width="200" height="200" />
+  <img alt="" src="../images/head.jpeg" width="300" />
 
 Hello, my name is __conghaoyuan__ and I’m a __PHP RD CODER__ with equal parts interest in business, management development, and writing.
 
