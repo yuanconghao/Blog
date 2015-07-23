@@ -671,6 +671,14 @@ a.pagination-item:hover {
   background:transparent;
   border:none;
 }
+.search-baidu {
+  position: absolute;
+  top: 70px;
+  right: 10px;
+  z-index: 1000;
+  background: transparent;
+  border: none;
+}
 .weather{
   position: absolute;
   top:5px;
