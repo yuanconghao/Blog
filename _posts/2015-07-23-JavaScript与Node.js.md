@@ -12,7 +12,7 @@ categories:
 
 #JavaScript与Node.js
 
-## JavaScript与你
+## JavaScript与Node
 抛开技术，我们先来聊聊你以及你和JavaScript的关系。本章的主要目的是想让你看看，对你而言是否有必要继续阅读后续章节的内容。
 
 如果你和我一样，那么你很早就开始利用HTML进行“开发”，正因如此，你接触到了这个叫JavaScript有趣的东西，而对于JavaScript，你只会基本的操作——为web页面添加交互。
