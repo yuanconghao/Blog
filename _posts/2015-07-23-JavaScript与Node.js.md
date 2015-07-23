@@ -7,7 +7,7 @@ categories:
 
 
 <div class="message">
-  node.js入门级的，这么多内容当然不是我写的了，只不过看到别人写的不错，copy过来了，[原文链接](http://ourjs.com/detail/529ca5950cb6498814000005#conclusion-and-outlook),不过还是看这篇吧，原文广告比较多。
+  node.js入门级的，这么多内容当然不是我写的了，只不过看到别人写的不错，copy过来了，<a href="http://ourjs.com/detail/529ca5950cb6498814000005#conclusion-and-outlook">原文链接</a>,不过还是看这篇吧，原文广告比较多。
 </div>
 
 #JavaScript与Node.js
